@@ -1,0 +1,12 @@
+b=0
+puts "b=#{b}"
+while b<100
+puts n if n.even?
+b+=1
+end
+until n>1
+puts n if n.odd?
+b+=1
+end
+
+
